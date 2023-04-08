@@ -1,0 +1,29 @@
+#Exact whitelist
+
+www.pornhub.com
+pornhub.com
+www.googleadservices.com
+clickserve.dartsearch.net
+https://www.technoy.de/lists/whitelist.txt
+de.pornhub.com
+fullporner.com
+di.phncdn.com
+www.redtube.com.br
+(\.|^)datev\.de$
+star.fallback.c10r.facebook.com
+(\.|^)facebook\.com$
+Regex whitelist
+app-measurement.com
+hubt.pornhub.com
+www.etahub.com
+cdn1d-static-shared.phncdn.com
+s.youtube.com
+cdn1-smallimg.phncdn.com
+strato.de
+onedrive.live.com
+merkur.met.vgwort.de
+twitter.com
+t.co
+in.appcenter.ms
+region1.app-measurement.com
+click.official.nike.com
