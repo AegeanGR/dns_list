@@ -274,7 +274,7 @@ redis:
   # Username if necessary
   username: evangelos
   # Password if necessary
-  password: Vagelis25
+  password: test
   # Database, default: 0
   database: 2
   # Connection is required for blocky to start. Default: false
@@ -286,7 +286,7 @@ redis:
   # Sentinal username if necessary
   sentinelUsername: evangelos
   # Sentinal password if necessary
-  sentinelPassword: Vagelis25
+  sentinelPassword: test
   # List with address and port of sentinel hosts(sentinel is activated if at least one sentinel address is configured)
   sentinelAddresses:
     - redis-sentinel1:26379
