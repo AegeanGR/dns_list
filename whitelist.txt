@@ -27,3 +27,4 @@ t.co
 in.appcenter.ms
 region1.app-measurement.com
 click.official.nike.com
+wikipedia.org
