@@ -38,7 +38,7 @@ microsoft.com
 @@||images-na.ssl-images-amazon.com^$important
 @@||aax-eu.amazon.de^$important
 @@||m.media-amazon.com^$important
-@@||edgesuite.net^
+@@||edgesuite.net^$important
 
 Regex
 (\.|^)facebook\.com$
