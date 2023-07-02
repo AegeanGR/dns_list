@@ -1,0 +1,15 @@
+@@||ad.doubleclick.net^$important
+@@||track.seadform.net^$important
+@@||drive.google.com^$important
+@@||play.google.com^$important
+@@||youtubei.googleapis.com^$important
+@@||images-na.ssl-images-amazon.com^$important
+@@||aax-eu.amazon.de^$important
+@@||m.media-amazon.com^$important
+@@||gateway.icloud.com^$important
+@@||bag.itunes.apple.com^$important
+@@||search.itunes.apple.com^$important
+@@||amp-api-edge.apps.apple.com^$important
+@@||pd.itunes.apple.com^$important
+@@||microsoft.com^$important
+@@||weather-data.apple.com^$important
