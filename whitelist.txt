@@ -8,10 +8,8 @@ de.pornhub.com
 fullporner.com
 di.phncdn.com
 www.redtube.com.br
-(\.|^)datev\.de$
 star.fallback.c10r.facebook.com
-(\.|^)facebook\.com$
-Regex whitelist
+ad.doubleclick.net
 app-measurement.com
 hubt.pornhub.com
 www.etahub.com
@@ -27,3 +25,20 @@ in.appcenter.ms
 region1.app-measurement.com
 click.official.nike.com
 wikipedia.org
+weather-data.apple.com
+search.itunes.apple.com
+amp-api-edge.apps.apple.com
+pd.itunes.apple.com
+bag.itunes.apple.com
+microsoft.com
+@@||track.seadform.net^$important
+@@||drive.google.com^$important
+@@||play.google.com^$important
+@@||youtubei.googleapis.com^$important
+@@||images-na.ssl-images-amazon.com^$important
+@@||aax-eu.amazon.de^$important
+@@||m.media-amazon.com^$important
+
+Regex
+(\.|^)facebook\.com$
+(\.|^)datev\.de$
