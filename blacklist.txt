@@ -12,6 +12,15 @@
 ||apornhome.com^
 ||firepornz.com^
 ||flarepornx.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.gesendry.com^
+||ads-api.twitter.com^
+||appmetrica.yandex.ru^
+||metrika.yandes.ru^
 
 #AdBlock-Tester Regeln
 ||pagead2.googlesyndication.com^
