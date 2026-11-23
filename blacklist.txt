@@ -1,23 +1,19 @@
-#Blacklist
+#Blacklist (AdGuard Home Syntax)
+||chaturbate.eu^
+||chaturbate.de^
+||pervert.chat^
+||pervet.chat^
+||puretaboo.com^
+||xxxi.porn^
+||trahkino.cc^
+||porn4e.com^
+||qpornosite.com^
+||boxofp.com^
+||apornhome.com^
+||firepornz.com^
+||flarepornx.com^
 
-chaturbate.eu
-www.pervert.chat
-pervert.chat
-lp.puretaboo.com
-www.puretaboo.com
-puretaboo.com
-ww8.chaturbate.de
-chaturbate.de
-ad.doubleclick.net
-pervet.chat
-de.xxxi.porn
-trahkino.cc
-www.porn4e.com
-www.qpornosite.com
-www.boxofp.com
-www.apornhome.com
-www.firepornz.com
-www.flarepornx.com
+#AdBlock-Tester Regeln
 ||pagead2.googlesyndication.com^
 ||stats.g.doubleclick.net^
 ||ad.doubleclick.net^
