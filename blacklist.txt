@@ -17,10 +17,10 @@
 ||api.bugsnag.com^
 ||app.bugsnag.com^
 ||browser.sentry-cdn.com^
-||app.gesendry.com^
+||app.gesentry.com^
 ||ads-api.twitter.com^
 ||appmetrica.yandex.ru^
-||metrika.yandes.ru^
+||metrika.yandex.ru^
 ||an.facebook.com^
 
 #AdBlock-Tester Regeln
