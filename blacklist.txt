@@ -21,6 +21,7 @@
 ||ads-api.twitter.com^
 ||appmetrica.yandex.ru^
 ||metrika.yandes.ru^
+||an.facebook.com^
 
 #AdBlock-Tester Regeln
 ||pagead2.googlesyndication.com^
